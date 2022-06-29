@@ -229,7 +229,7 @@ Here is a full example of every tag and attribute usable in Sutori:
          <text>This is the end</text>
       </moment>
       
-	</moments>
+   </moments>
 </document>
 ```
 
